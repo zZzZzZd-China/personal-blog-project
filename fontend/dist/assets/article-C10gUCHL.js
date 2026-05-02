@@ -1,0 +1,1 @@
+import{t as e}from"./request-DyDKbb9K.js";var t=async t=>await e.get(`/get-personal-article`,{params:t}),n=async t=>await e.post(`/post-personal-article`,t),r=async t=>await e.post(`/delete-personal-article`,t),i=async t=>await e.put(`/put-personal-article`,t),a=async()=>await e.get(`/get--personal-article-count`);export{n as a,t as i,i as n,a as r,r as t};

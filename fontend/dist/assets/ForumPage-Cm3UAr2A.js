@@ -1,0 +1,1 @@
+import{R as e,d as t,m as n,t as r}from"./_plugin-vue_export-helper-aRo-GdXd.js";var i={},a={class:`forum`};function o(r,i){return e(),n(`div`,a,[...i[0]||=[t(`h1`,null,`论坛功能开发\xA0(～o￣3￣)～`,-1)]])}var s=r(i,[[`render`,o],[`__scopeId`,`data-v-8dd32429`]]);export{s as default};
